@@ -1,0 +1,14 @@
+{
+  "name": "new-tsnode-project",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "npx ts-node index.ts"
+  },
+  "author": "wojciech dydacki",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.1",
+    "typescript": "^5.5.4"
+  }
+}
